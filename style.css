@@ -86,7 +86,7 @@ section{
 
     }
     .home-container {
-        background-image: url("./img-sorveteria/img-home-atual2.png");
+        background-image: url("img-home-atual2.png");
         height:100vh;
         width:100%;
         background-position: left;
@@ -281,4 +281,5 @@ section{
 
  .footer .share img:hover {
     background-color: var(--main-color);
+
  }
